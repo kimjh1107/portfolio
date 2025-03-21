@@ -55,7 +55,7 @@ main{
 
 #image{
     height: 40rem;
-    background-image: url('/img/ace.jpg');
+    background-image: url('./img/ace.jpg');
     background-size: contain;
     background-position-x: 34rem;
     background-repeat: no-repeat;
@@ -240,6 +240,16 @@ main{
     color: #f3f0f0;
 }
 
+.contentSkills img{
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.javasc{
+    width: 10rem;
+    height: 3rem;
+}
+
 .contentSkills .s{
     font-size: 2rem;
 }
@@ -286,7 +296,7 @@ main{
 }
 
 .woodin{
-    background-image: url(/img/woodinP.PNG);
+    background-image: url(./img/woodinP.PNG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -294,14 +304,14 @@ main{
 }
 
 .man{
-    background-image: url(/img/manP.PNG);
+    background-image: url(./img/manP.PNG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .sol{
-    background-image: url(/img/360solutionP.PNG);
+    background-image: url(./img/360solutionP.PNG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
