@@ -55,7 +55,7 @@ main{
 
 #image{
     height: 40rem;
-    background-image: url('/img/ace.jpg');
+    background-image: url('img/ace.jpg');
     background-size: contain;
     background-position-x: 34rem;
     background-repeat: no-repeat;
