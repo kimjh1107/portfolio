@@ -292,7 +292,7 @@ main{
 }
 
 .woodin{
-    background-image: url(/img/woodinP.PNG);
+    background-image: url(img/woodinP.PNG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -300,14 +300,14 @@ main{
 }
 
 .man{
-    background-image: url(/img/manP.PNG);
+    background-image: url(img/manP.PNG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .sol{
-    background-image: url(/img/360solutionP.PNG);
+    background-image: url(img/360solutionP.PNG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
